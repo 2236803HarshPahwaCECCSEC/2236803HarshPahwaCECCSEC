@@ -1,14 +1,12 @@
 ## Hi there,I'm Harsh Pahwa 👋
 
 
-- 🔭 I’m currently working on ...
+                       **I am Passionate about learning new stuff**
 - 🌱 I’m currently learning about C++ and Data Structures and Algorithms and Web Development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: mail me at harshpahwa0987@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Web Development
+- 📫 How to reach me:harshpahwa0987@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Would love to Explore new things. 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
