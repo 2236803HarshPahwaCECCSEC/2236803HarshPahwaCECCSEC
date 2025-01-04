@@ -1,7 +1,7 @@
 ## Hi there,I'm Harsh Pahwa 👋
 
 
-                                                             **I am Passionate about learning new stuff**
+                                                           **I am Passionate about learning new stuff**
 - 🌱 I’m currently learning about C++ and Data Structures and Algorithms and Web Development.
 - 💬 Ask me about Web Development
 - 📫 How to reach me:harshpahwa0987@gmail.com
